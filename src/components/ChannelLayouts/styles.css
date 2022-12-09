@@ -1,0 +1,11 @@
+.ant-collapse-header {
+  padding: 0px !important;
+  font-weight: 700;
+  font-size: 14px;
+}
+.ant-collapse-expand-icon {
+  padding-right: 4px !important;
+}
+.ant-collapse-content-box {
+  padding: 0px !important;
+}
